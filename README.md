@@ -19,9 +19,9 @@
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Thị giác máy tính trong tương tác người máy
-* **Mã môn học:** CS114
+* **Mã môn học:** CS532
 * **Mã lớp:** CS532.M21.KHCL
-* **Năm học:** HK2 (2020 - 2021)
+* **Năm học:** HK2 (2021 - 2022)
 * **Giảng viên**: Đỗ Văn Tiến
 
 <!-- Footer -->
