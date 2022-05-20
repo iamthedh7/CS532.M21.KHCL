@@ -1,11 +1,12 @@
-Getting Started: 
+# Getting Started: 
+
 - Clone / Download to your device
+
 - Install neccessary library to your environment: tensorflow + pytorch (recommend: GPU version), onnx, onnxruntime-gpu, ...
 
 (onnx-tensorflow: we can clone here: https://github.com/onnx/onnx-tensorflow, then copy/move onnx_tf folder out of this folder)
 
-
-DETAILS:
+# DETAILS:
 
 * train.ipynb: This is the source to create the Pytorch's model (here is MNIST)                   -----output----->          folder[data/MNIST/raw] + [mnist.pt]
 
