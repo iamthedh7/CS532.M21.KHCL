@@ -1,0 +1,5 @@
+easygui
+pandas
+matplotlib
+rembg[gpu]
+tensorflow
